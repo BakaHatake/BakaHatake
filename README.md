@@ -33,11 +33,13 @@ Check out my repositories for code samples and projects! *(Currently private)*
   - Working 🚧
 
 ## 📫 Contact
-- GitHub: [BakaHatake](https://github.com/BakaHatake)
-- Telegram: @Anushhatake
-- Discord: bakahatake
+
+- **GitHub:** [BakaHatake](https://github.com/BakaHatake)
+- **Telegram:** [@Anushhatake](https://t.me/Anushhatake)
+- **Discord:** [bakahatake](https://discordapp.com/users/bakahatake)
 
 ---
+
 
 > “Code. Learn. Repeat.”
 
