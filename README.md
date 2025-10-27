@@ -15,10 +15,22 @@ I'm a developer currently studying AI/ML and passionate about learning new techn
 - Others: Git
 
 ## 📂 Projects
--Check out my repositories for code samples and projects! (Currently private)
--Stuff I do 
--Telegarm Bots
--https://t.me/@Baka7_bot?start
+
+Check out my repositories for code samples and projects! *(Currently private)*
+
+---
+
+### 🧠 Stuff I Do
+- **Telegram Bots**
+  - [Baka7 Bot](https://t.me/Baka7_bot?start)
+  - [Smoe7 Bot](https://t.me/smoe7_bot?start)
+
+- **Static Websites**
+  - [demon slayer](https://demonslayer.up.railway.app)
+  - [letsc](https://letsc.up.railway.app)
+
+- **Discord**
+  - Working 🚧
 
 ## 📫 Contact
 - GitHub: [BakaHatake](https://github.com/BakaHatake)
