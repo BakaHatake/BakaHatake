@@ -22,8 +22,8 @@ Check out my repositories for code samples and projects! *(Currently private)*
 
 ### 🧠 Stuff I Do
 - **Telegram Bots**
-  - [Baka7 Bot](https://t.me/Baka7_bot?start)
-  - [Smoe7 Bot](https://t.me/smoe7_bot?start)
+  - [Baka Bot](https://t.me/Baka7_bot?start)
+  - [Some Bot](https://t.me/smoe7_bot?start)
 
 - **Static Websites**
   - [demon slayer](https://demonslayer.up.railway.app)
