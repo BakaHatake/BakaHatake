@@ -16,6 +16,9 @@ I'm a developer currently studying AI/ML and passionate about learning new techn
 
 ## 📂 Projects
 Check out my repositories for code samples and projects! (Currently private)
+Stuff I do 
+Telegarm Bots
+--https://t.me/@Baka7_bot?start
 
 ## 📫 Contact
 - GitHub: [BakaHatake](https://github.com/BakaHatake)
