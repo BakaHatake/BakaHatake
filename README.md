@@ -27,7 +27,7 @@ Check out my repositories for code samples and projects! *(Currently private)*
 
 - **Static Websites**
   - [demon slayer](https://demonslayer.up.railway.app)
-  - [letsc](https://letsc.up.railway.app)
+  - [letsc](https://baka.up.railway.app/)
 
 - **Discord**
   - Working 🚧
