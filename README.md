@@ -26,7 +26,7 @@ Check out my repositories for code samples and projects! *(Currently private)*
   - [Some Bot](https://t.me/smoe7_bot?start)
 
 - **Static Websites**
-  - [demon slayer](https://demonslayer.up.railway.app)
+  - [demon slayer](https://idkbruh-eta.vercel.app/)
   - [letsc](https://baka.up.railway.app/)
 
 - **Discord**
