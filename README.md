@@ -27,7 +27,7 @@ Check out my repositories for code samples and projects! *(Currently private)*
 
 - **Static Websites**
   - [demon slayer](https://idkbruh-eta.vercel.app/)
-  - [letsc](https://baka.up.railway.app/)
+  - [letsc](https://lets-c.vercel.app/html/todo.html)
 
 - **Discord**
   - Working 🚧
