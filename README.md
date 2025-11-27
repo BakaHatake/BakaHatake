@@ -41,7 +41,7 @@ Check out my repositories for code samples and projects! *(Currently private)*
 ---
 
 
-> “Code. Learn. Repeat.”
+> “Fallen leaves Adorn my night🍂🍃.”
 
 <!--
 **BakaHatake/BakaHatake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
