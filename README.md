@@ -1,4 +1,6 @@
-# 👋 Hi, I'm BakaHatake!- [Portfolio](anushhatake.me)
+# 👋 Hi, I'm BakaHatake!
+
+- [Portfolio](https://anushhatake.me)
 
 Welcome to my GitHub!  
 I'm a developer currently studying AI/ML and passionate about learning new technologies.
