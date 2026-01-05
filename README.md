@@ -38,15 +38,7 @@ Check out my repositories for code samples and projects! *(Currently private)*
 
 - **Discord**
   - Working 🚧
-
-## 🎮 Gaming
-- **Valorant:** `BakaHatake#748`
-- **Genshin Impact:** `UID: 1802101997`
-- **Clash of Clans:** `#pjj0vpqur`
-- **Arise:** Solo Leveling
-- **Wuthering Waves:** Active Player
-- **GTA V & RDR 2:** Online & Roleplay
-
+  - 
 ## 📫 Contact
 
 - **GitHub:** [BakaHatake](https://github.com/BakaHatake)
