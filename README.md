@@ -86,4 +86,4 @@ I'm a developer currently studying **AI/ML** and passionate about learning new t
 
 ---
 
-> “Karan Aujla | Caffeine | 🕊️”
+> “Karan Aujla | Caffeine | Kalyani | 🕊️”
