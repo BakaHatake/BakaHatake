@@ -85,5 +85,23 @@ I'm a developer currently studying **AI/ML** and passionate about learning new t
 </div>
 
 ---
+Social Network Friend Recommendation
+Problem Statement
+A social networking platform stores friendships in a CSV file.
+Person,Friend
+Alice,Bob
+Alice,Charlie
+Bob,David
+Charlie,Eve
+David,Frank
+Eve,Grace
+Apply BFS to:
+•	Find all friends within 2 levels. 
+•	Find the shortest friendship chain between two users. 
+•	Suggest mutual friend recommendations. 
+BFS Nodes
+Users
+BFS Edges
+Friendships
 
 > “Karan Aujla | Caffeine | Kalyani | 🕊️”
