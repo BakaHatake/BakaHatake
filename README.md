@@ -83,5 +83,15 @@ I'm a developer currently studying **AI/ML** and passionate about learning new t
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
+Develop an AI-based Campus Route Planner that represents a college campus as a weighted state-space graph. Buildings such as Block A, Block B, Library, Lab, Canteen, Hostel and Administrative Block should be represented as states, while roads/paths between them represent actions. Each path should have a cost representing distance, walking time or energy consumption.
+
+The system should allow the user to specify a source and destination and select one of the following search algorithms:
+
+Breadth-First Search
+Depth-First Search
+Uniform Cost Search
+Iterative Deepening Search
+
+The system should execute the selected algorithm and display the search process, explored nodes, solution path and total cost.
 
 > “Karan Aujla | Caffeine | Kalyani | 🕊️”
