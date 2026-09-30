@@ -84,4 +84,4 @@ I'm a developer currently studying **AI/ML** and passionate about learning new t
   </a>
 </div>
 
-> “Karan Aujla | Caffeine | Kalyani | 🕊️”
+> “Karan Aujla | Caffeine | Kalyani | 🕊️,.”
